@@ -19,11 +19,7 @@
   padding: 5px;
 }
 
-#images:hover {
-  text-decoration: underline;
-}
-
-#advanced:hover {
+.sublinks:hover {
   text-decoration: underline;
 }
 
